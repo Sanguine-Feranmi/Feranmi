@@ -14,7 +14,7 @@ body{
 .header{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.5), rgb(0, 0, 0,0.5)), url(images/how-to-clean-motherboard-1.jpeg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgb(0, 0, 0,0.5)), url(how-to-clean-motherboard-1.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
